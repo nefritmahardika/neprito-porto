@@ -5,7 +5,7 @@ export default function Header() {
   return (
       <header className="flex text-gray-700 gap-x-5 px-20 mt-10 pb-5 items-center">
         <a href="" target="_self">
-          <Image src="/public/img/Photo.png" alt="Profile" width={40} height={40} />
+          <Image src="/Photo.png" alt="Profile" width={40} height={40} />
         </a>
         <a href="" target="_self" className="font-semibold text-lg underline">
           Nefrit Mahardika
