@@ -1,8 +1,11 @@
 import Link from "next/link";
 
 const Project = ({ title, description, href, tags = [], year }) => {
+  
   return (
+    
     <div className="h-[110px] bg-white rounded-xl overflow-hidden transition-all w-full relative">
+      
       <Link
         href={href}
         target="_blank"
