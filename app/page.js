@@ -14,7 +14,7 @@ export default function Home() {
     <main className="max-h-screen bg-gray font-sans">
       <Header />
 
-      <div className="mx-20 grid lg:grid-cols-4 gap-[10px] items-start sm:gap-y-[10px] grid-cols-1">
+      <div className="mx-10 grid lg:grid-cols-4 gap-[10px] items-start sm:gap-y-[10px] grid-cols-1">
         <div className="bg-gray-100 rounded-xl h-45 max-w-full p-6 col-span-3 lg:col-span-2 flex items-center justify-center">
           <About />
         </div>
