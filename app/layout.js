@@ -18,7 +18,7 @@ export const metadata = {
   title: "Nefrit Mahardika",
   description: "A tech enthusiast who loves making sense of data and making graphic designs that make sense. I mix logic with creativity to solve problems and build meaningful things.",
   icons: {
-    icon: '/img/Photo.png'
+    icon: '/public/img/Photo.png'
 },
 }
 
